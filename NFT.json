@@ -1,0 +1,11 @@
+
+{
+    "name": "Teste NFT",
+    "symbol": "TNT",
+    "description": "Teste de mint nft.",
+    "seller_fee_basis_points": 5,
+    "external_url": "",
+    "edition": "",
+    "background_color": "000000",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/640px-SpongeBob_SquarePants_character.svg.png"
+}
